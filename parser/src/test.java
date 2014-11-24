@@ -28,6 +28,7 @@ public class test {
 				lo=mid;
 			//System.out.println(lo + "  " + hi);
 		}
+		System.out.println("Trying to learn");
 		System.out.print("hey the answer is = ");
 		System.out.println(lo);
 		System.out.println("Answer is finished");
