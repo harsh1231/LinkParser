@@ -30,6 +30,7 @@ public class test {
 		}
 		System.out.print("hey the answer is = ");
 		System.out.println(lo);
+		System.out.println("Answer is finished");
 		
 		
 		
